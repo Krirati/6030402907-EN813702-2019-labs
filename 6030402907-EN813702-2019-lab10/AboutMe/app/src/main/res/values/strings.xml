@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="krirati_kani">Krirati kani</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+    <string name="textview">TextView</string>
+    <string name="yellow_tart">Yellow tart</string>
+    <string name="bio">Bio
+    There are many variations of passages of Lorem Ipsum available, but the majority
+    There are many variations of passages of Lorem Ipsum available, but the majority
+    There are many variations of passages of Lorem Ipsum available, but the majority
+    There are many variations of passages of Lorem Ipsum available, but the majority
+    There are many variations of passages of Lorem Ipsum available, but the majorityThere
+        are many variations of passages of Lorem Ipsum available, but the majority
+        There are many variations of passages of Lorem Ipsum available, but the majority
+        There are many variations of passages of Lorem Ipsum available, but the majority</string>
+</resources>
